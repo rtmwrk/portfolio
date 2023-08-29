@@ -55,7 +55,7 @@ ___
 
 **2. Автотест формы заявки кредитной карты:**
 - [описание](https://github.com/rtmwrk/jhw15);
-- [тесты](https://github.com/rtmwrk/jhw15/blob/main/src/test/java/ru/netology/web/RegistrationTest.java)$
+- [тесты](https://github.com/rtmwrk/jhw15/blob/main/src/test/java/ru/netology/web/RegistrationTest.java);
 - [CI with Gradle](https://github.com/rtmwrk/jhw15/blob/main/.github/workflows/gradle.yml)
 
 Используемые инструменты:
