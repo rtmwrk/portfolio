@@ -19,8 +19,8 @@
 
 **5. Отчет о тестировании:**
 - [отчет о тестировании Калькулятора ипотечного страхования](https://docs.google.com/document/d/1sGYF0WQZMAJCHIrLB6i2XU5ybw-tb-3iLggzU7B038U/edit?usp=sharing) ("mortgage.Finuslugi.ru");
-- [протокол тестировании клиентской части Калькулятора...](https://docs.google.com/spreadsheets/d/1lwg2FaC-pexW3cp-dhVSfhXPMDwHzjk8mgbqNeO4skE/edit?usp=sharing);
-- [протокол тестировании серверной части Калькулятора...](https://docs.google.com/spreadsheets/d/1hvGG_5cXckzBaB2GovcSY4AVI__mRt7oGfymtvcB34A/edit?usp=sharing).
+- [протокол тестировании клиентской части Калькулятора](https://docs.google.com/spreadsheets/d/1lwg2FaC-pexW3cp-dhVSfhXPMDwHzjk8mgbqNeO4skE/edit?usp=sharing);
+- [протокол тестировании серверной части Калькулятора](https://docs.google.com/spreadsheets/d/1hvGG_5cXckzBaB2GovcSY4AVI__mRt7oGfymtvcB34A/edit?usp=sharing).
 
 ___
 
