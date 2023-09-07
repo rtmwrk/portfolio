@@ -8,17 +8,20 @@
 **2. Чек листы:**
 - [тесты личного кабинета пользователя](https://docs.google.com/spreadsheets/d/1Mose_Af12ndIqAmybR-zHwyj7hM5_1tjZg29bJ6MBi4/edit?usp=sharing) ("Henderson.ru").
 
-**3. Тестовые сценарии:**
+**3. Алгоритмы тестирования:**
+- [тесты выбора условий доставки заказа](https://docs.google.com/document/d/1qHe49GL6Avko0FWWExwkT-FkEzPYnbV-X9yA0fIeFPg/edit?usp=sharing) (Маркетплейс "Cezyo.space").
+
+**4. Тестовые сценарии:**
 - [тесты личного кабинета пользователя](https://docs.google.com/spreadsheets/d/1iT_QhWOTY4XY9tPkqsCq94mjv_OfGV-oBWWMcNwwYgQ/edit?usp=sharing) ("Henderson.ru").
 
-**4. Баг репорты:**
-- [баг репорты тестов кабинета пользователя](https://docs.google.com/spreadsheets/d/1CpwgdXGlwRrc0PbbQo7ipK7bULmH3qtRw76DaRsJfoo/edit?usp=sharing) ("Henderson.ru");
-- [баг репорты тестов модуля управления работами](https://docs.google.com/spreadsheets/d/1k1yJUt46IkvY7svY53-G3xFOlTIVEWTvkxR3_lqCZLo/edit?usp=sharing) ("NVBS.ru");
-- [баг репорты тестов модуля в "1С:Предприятие АМС"](https://docs.google.com/document/d/1FMs68Srmbl5iWj-NvjwP7dP_leSvmUs_OzamxyBQ79I/edit?usp=sharing)  ("NVBS.ru");
-- [баг репорты тестов системы формирования электронных реестров](https://docs.google.com/document/d/185ytOyc2OMkqWIT-WYkComlz9eCcEltx5QiC4XzxXbM/edit?usp=sharing) ("NVBS.ru");
+**5. Баг репорты:**
+- [отчет о дефектах кабинета пользователя](https://docs.google.com/spreadsheets/d/1CpwgdXGlwRrc0PbbQo7ipK7bULmH3qtRw76DaRsJfoo/edit?usp=sharing) ("Henderson.ru");
+- [отчеты о дефектах модуля управления работами](https://docs.google.com/spreadsheets/d/1k1yJUt46IkvY7svY53-G3xFOlTIVEWTvkxR3_lqCZLo/edit?usp=sharing) ("Системный интегратор NVBS.ru");
+- [отчет о дефекте в модуле проверки заявок](https://docs.google.com/document/d/17S2S5l9_FxxazWE_0OtK1yJuES3eJx85lDbyZCt3iJk/edit?usp=sharing)  ("NVBS.ru");
+- [отчет о дефекте системы формирования электронных реестров](https://docs.google.com/document/d/185ytOyc2OMkqWIT-WYkComlz9eCcEltx5QiC4XzxXbM/edit?usp=sharing) ("NVBS.ru");
 
-**5. Отчет о тестировании:**
-- [отчет о тестировании Калькулятора ипотечного страхования](https://docs.google.com/document/d/1sGYF0WQZMAJCHIrLB6i2XU5ybw-tb-3iLggzU7B038U/edit?usp=sharing) ("mortgage.Finuslugi.ru");
+**6. Отчет о тестировании:**
+- [отчет о тестировании Калькулятора ипотечного страхования](https://docs.google.com/document/d/1sGYF0WQZMAJCHIrLB6i2XU5ybw-tb-3iLggzU7B038U/edit?usp=sharing) ("Агрегатор финуслуг Finuslugi.ru");
 - [протокол тестировании клиентской части Калькулятора](https://docs.google.com/spreadsheets/d/1lwg2FaC-pexW3cp-dhVSfhXPMDwHzjk8mgbqNeO4skE/edit?usp=sharing);
 - [протокол тестировании серверной части Калькулятора](https://docs.google.com/spreadsheets/d/1hvGG_5cXckzBaB2GovcSY4AVI__mRt7oGfymtvcB34A/edit?usp=sharing).
 
