@@ -20,10 +20,14 @@
 - [отчет о дефекте в модуле проверки заявок](https://docs.google.com/document/d/17S2S5l9_FxxazWE_0OtK1yJuES3eJx85lDbyZCt3iJk/edit?usp=sharing)  ("NVBS.ru");
 - [отчет о дефекте системы формирования электронных реестров](https://docs.google.com/document/d/185ytOyc2OMkqWIT-WYkComlz9eCcEltx5QiC4XzxXbM/edit?usp=sharing) ("NVBS.ru");
 
-**6. Отчет о тестировании:**
+**6. Отчеты о тестировании:**
 - [отчет о тестировании Калькулятора ипотечного страхования](https://docs.google.com/document/d/1sGYF0WQZMAJCHIrLB6i2XU5ybw-tb-3iLggzU7B038U/edit?usp=sharing) ("Агрегатор финуслуг Finuslugi.ru");
 - [протокол тестировании клиентской части Калькулятора](https://docs.google.com/spreadsheets/d/1lwg2FaC-pexW3cp-dhVSfhXPMDwHzjk8mgbqNeO4skE/edit?usp=sharing);
 - [протокол тестировании серверной части Калькулятора](https://docs.google.com/spreadsheets/d/1hvGG_5cXckzBaB2GovcSY4AVI__mRt7oGfymtvcB34A/edit?usp=sharing).
+
+**7. Инструкции и регламенты:**
+- [модуль расчета плановых показателей работы сотрудников](https://docs.google.com/document/d/1_J0YbOIbQRsb3xE9EAnNmZz79XGuldprjhr1T5lapt8/edit?usp=sharing) ("NVBS.ru");
+- [регламент ведения и использования базы знаний](https://docs.google.com/document/d/13NMv3tkDEiJx1Cvti0BYZWx_iVOiypljMHeBymHbmjk/edit?usp=sharing) ("NVBS.ru");
 
 ___
 
