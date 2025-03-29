@@ -40,18 +40,26 @@
 
 ### ![](./assets/img/tool.png) Использование инструментов для тестирования:
 
-**1. Тестирование веб API:**
+**1. Автоматизация рутинных операций на "Linux":**
+
+- [Bash Linux](https://github.com/rtmwrk/LinuxBushScript?tab=readme-ov-file).
+
+**2. Тестирование веб API:**
 
 - [Google Chrome](https://docs.google.com/document/d/15CV4_Jp-hxA1ksGz1aMmhjwaUuSg4V-6yHDu8_RPewg/edit?usp=sharing);
 - [Postman](https://docs.google.com/document/d/1_qqPKteXFqq_s31mgEGG0VZ3OK8HWcZydE9415XyK0s/edit?usp=sharing).
 
-**2. Нагрузочное тестирование:**
+**3. Нагрузочное тестирование:**
 
 - [JMeter](https://docs.google.com/document/d/1k_1BDFZKtwOgTQo4w58-SpvOdG1gO9YCdLmkQtS-8Vo/edit?usp=sharing).
 
-**3. Оформление баг-репортов:**
+**4. Оформление баг-репортов:**
 
-- [Atlassian Jira](https://docs.google.com/document/d/19r8-NJS7_pjF8HmzwLv7ASSqIGs6pBmj_VECul-IrwA/edit?usp=sharing).
+- [Atlassian Jira](https://docs.google.com/document/d/19r8-NJS7_pjF8HmzwLv7ASSqIGs6pBmj_VECul-IrwA/edit?usp=sharing);
+
+- [Microsoft Azure](https://docs.google.com/document/d/11LUKMiMmnzUI6ukmD3Xzlbp4Rgvhv5GC6j8pWjTEaBU/edit?usp=sharing);
+
+- [Google Docs | Microsoft Office](https://docs.google.com/document/d/185ytOyc2OMkqWIT-WYkComlz9eCcEltx5QiC4XzxXbM/edit?usp=sharing).
 
 ---
 
@@ -123,18 +131,6 @@
 
 - SQLite;
 - DBeaver.
-
----
-
-### ![](./assets/img/bash.png) Код на "Bash Linux":
-
-**Автоматизация рутинных операций тестирования:**
-
-- [код](https://github.com/rtmwrk/LinuxBushScript?tab=readme-ov-file).
-
-Используемые инструменты:
-
-- Bash Linux.
 
 ---
 
