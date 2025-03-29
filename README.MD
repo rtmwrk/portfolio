@@ -49,11 +49,17 @@
 - [Google Chrome](https://docs.google.com/document/d/15CV4_Jp-hxA1ksGz1aMmhjwaUuSg4V-6yHDu8_RPewg/edit?usp=sharing);
 - [Postman](https://docs.google.com/document/d/1_qqPKteXFqq_s31mgEGG0VZ3OK8HWcZydE9415XyK0s/edit?usp=sharing).
 
-**3. Нагрузочное тестирование:**
+**3. Тестирование БД:**
+
+- [PostgreSQL](./sql/postgresql.md);
+- [Jatoba](./sql/jatoba.md);
+- [SQLite](./sql/sqlite.md);
+
+**4. Нагрузочное тестирование:**
 
 - [JMeter](https://docs.google.com/document/d/1k_1BDFZKtwOgTQo4w58-SpvOdG1gO9YCdLmkQtS-8Vo/edit?usp=sharing).
 
-**4. Оформление баг-репортов:**
+**5. Оформление баг-репортов:**
 
 - [Atlassian Jira](https://docs.google.com/document/d/19r8-NJS7_pjF8HmzwLv7ASSqIGs6pBmj_VECul-IrwA/edit?usp=sharing);
 
@@ -116,16 +122,15 @@
 
 **1. Диалект PostgreSQL:**
 
-- [код](https://github.com/rtmwrk/portfolio/blob/main/sql/postgresql.md).
+- [код](./sql/postgresql.md).
 
-Используемые инструменты:
+**2. Диалект Jatoba:**
 
-- PostgreSQL;
-- DBeaver.
+- [код](./sql/jatoba.md).
 
-**2. Диалект SQLite:**
+**3. Диалект SQLite:**
 
-- [код](https://github.com/rtmwrk/portfolio/blob/main/sql/sqlite.md).
+- [код](./sql/sqlite.md).
 
 Используемые инструменты:
 
