@@ -1,44 +1,44 @@
 # Портфолио
 
-### ![](./assets/img/testing.png) Работа с тестовой документацией:
+### ![](./assets/img/testing.png) Тестовая документация:
 
 **1. Вопросы по ТЗ:**
 
-- [тестирование технического задания на проект](https://docs.google.com/document/d/1LPywC4DO2vjK72BsH4H0hskhtMJeqVuuzy7l-E3f2IQ/edit?usp=sharing) (Интернет магазин "Henderson.ru").
+- [вопросы](https://docs.google.com/document/d/1LPywC4DO2vjK72BsH4H0hskhtMJeqVuuzy7l-E3f2IQ/edit?usp=sharing) по результатам тестирования технического задания на проект (интернет магазин "Henderson").
 
 **2. Чек листы:**
 
-- [тесты личного кабинета пользователя](https://docs.google.com/spreadsheets/d/1Mose_Af12ndIqAmybR-zHwyj7hM5_1tjZg29bJ6MBi4/edit?usp=sharing) ("Henderson.ru").
+- [чек-лист](https://docs.google.com/spreadsheets/d/1Mose_Af12ndIqAmybR-zHwyj7hM5_1tjZg29bJ6MBi4/edit?usp=sharing) тестирования личного кабинета пользователя ("Henderson").
 
 **3. Алгоритмы тестирования:**
 
-- [тесты выбора условий доставки заказа](https://docs.google.com/document/d/1qHe49GL6Avko0FWWExwkT-FkEzPYnbV-X9yA0fIeFPg/edit?usp=sharing) (Маркетплейс "Cezyo.space").
+- [тесты выбора условий](https://docs.google.com/document/d/1qHe49GL6Avko0FWWExwkT-FkEzPYnbV-X9yA0fIeFPg/edit?usp=sharing) доставки заказа (маркетплейс "Cezyo.space").
 
 **4. Тестовые сценарии:**
 
-- [тесты личного кабинета пользователя](https://docs.google.com/spreadsheets/d/1iT_QhWOTY4XY9tPkqsCq94mjv_OfGV-oBWWMcNwwYgQ/edit?usp=sharing) ("Henderson.ru").
+- [тестовый набор](https://docs.google.com/spreadsheets/d/1iT_QhWOTY4XY9tPkqsCq94mjv_OfGV-oBWWMcNwwYgQ/edit?usp=sharing) поддержки пакета "Astra Linux Domain Pro", тесты оформлены в классическом стиле (СЗИ "Блокхост-сеть");
+- [тестовый набор](https://docs.google.com/document/d/15BskOkz5SHVwYRDPvVQHibUNW-XtsW_HUTDiwDEg8c4/edit?usp=sharing) функционала "Блокхост-Сети" предоставления временного разрешения доступа к устройству, тесты оформлены в телеграфном стиле (СЗИ "Блокхост-сеть).
 
 **5. Баг репорты:**
 
-- [отчет о дефектах кабинета пользователя](https://docs.google.com/spreadsheets/d/1CpwgdXGlwRrc0PbbQo7ipK7bULmH3qtRw76DaRsJfoo/edit?usp=sharing) ("Henderson.ru");
-- [отчеты о дефектах модуля управления работами](https://docs.google.com/spreadsheets/d/1k1yJUt46IkvY7svY53-G3xFOlTIVEWTvkxR3_lqCZLo/edit?usp=sharing) ("Системный интегратор Nvbs.ru");
-- [отчет о дефекте в модуле проверки заявок](https://docs.google.com/document/d/17S2S5l9_FxxazWE_0OtK1yJuES3eJx85lDbyZCt3iJk/edit?usp=sharing) ("Nvbs.ru");
-- [отчет о дефекте системы формирования электронных реестров](https://docs.google.com/document/d/185ytOyc2OMkqWIT-WYkComlz9eCcEltx5QiC4XzxXbM/edit?usp=sharing) ("Nvbs.ru");
+- [отчет о дефекте](https://docs.google.com/document/d/1NWMcA_ZiVfc-aGCzIu6yss7ZSprueilIplzLoHS9tWs/edit?usp=sharing) модуля управления политиками (СЗИ "Блокхост-Сеть");
+- [отчет о дефекте](https://docs.google.com/document/d/17S2S5l9_FxxazWE_0OtK1yJuES3eJx85lDbyZCt3iJk/edit?usp=sharing) в модуле проверки заявок (системный интегратор "НВБС");
+- [отчет о дефектах](https://docs.google.com/spreadsheets/d/1k1yJUt46IkvY7svY53-G3xFOlTIVEWTvkxR3_lqCZLo/edit?usp=sharing) модуля управления работами("НВБС").
 
 **6. Отчеты о тестировании:**
 
-- [отчет о тестировании Калькулятора ипотечного страхования](https://docs.google.com/document/d/1sGYF0WQZMAJCHIrLB6i2XU5ybw-tb-3iLggzU7B038U/edit?usp=sharing) ("Агрегатор финуслуг Finuslugi.ru");
-- [протокол тестировании клиентской части Калькулятора](https://docs.google.com/spreadsheets/d/1lwg2FaC-pexW3cp-dhVSfhXPMDwHzjk8mgbqNeO4skE/edit?usp=sharing);
-- [протокол тестировании серверной части Калькулятора](https://docs.google.com/spreadsheets/d/1hvGG_5cXckzBaB2GovcSY4AVI__mRt7oGfymtvcB34A/edit?usp=sharing).
+- [отчет о тестировании](https://docs.google.com/document/d/1sGYF0WQZMAJCHIrLB6i2XU5ybw-tb-3iLggzU7B038U/edit?usp=sharing) модуля калькулятора ипотечного страхования("агрегатор финуслуг ФинУслуги");
+- [протокол тестирования](https://docs.google.com/spreadsheets/d/1lwg2FaC-pexW3cp-dhVSfhXPMDwHzjk8mgbqNeO4skE/edit?usp=sharing) клиентской части калькулятора;
+- [протокол тестировании](https://docs.google.com/spreadsheets/d/1hvGG_5cXckzBaB2GovcSY4AVI__mRt7oGfymtvcB34A/edit?usp=sharing) серверной части калькулятора.
 
 **7. Инструкции и регламенты:**
 
-- [модуль расчета плановых показателей работы сотрудников](https://docs.google.com/document/d/1_J0YbOIbQRsb3xE9EAnNmZz79XGuldprjhr1T5lapt8/edit?usp=sharing) ("Nvbs.ru");
-- [регламент ведения и использования базы знаний](https://docs.google.com/document/d/13NMv3tkDEiJx1Cvti0BYZWx_iVOiypljMHeBymHbmjk/edit?usp=sharing) ("Nvbs.ru");
+- [модуль](https://docs.google.com/document/d/1_J0YbOIbQRsb3xE9EAnNmZz79XGuldprjhr1T5lapt8/edit?usp=sharing) расчета плановых показателей работы сотрудников("НВБС");
+- [регламент](https://docs.google.com/document/d/13NMv3tkDEiJx1Cvti0BYZWx_iVOiypljMHeBymHbmjk/edit?usp=sharing) ведения и использования базы знаний ("НВБС");
 
 ---
 
-### ![](./assets/img/tool.png) Использование инструментов для тестирования:
+### ![](./assets/img/tool.png) Инструменты тестирования:
 
 **1. Автоматизация рутинных операций на "Linux":**
 
