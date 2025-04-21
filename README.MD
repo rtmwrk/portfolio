@@ -16,7 +16,7 @@
 
 **4. Тестовые сценарии:**
 
-- [тестовый набор](https://docs.google.com/spreadsheets/d/1iT_QhWOTY4XY9tPkqsCq94mjv_OfGV-oBWWMcNwwYgQ/edit?usp=sharing) поддержки пакета "Astra Linux Domain Pro", тесты оформлены в классическом стиле (СЗИ "Блокхост-сеть");
+- [тестовый набор](https://docs.google.com/document/d/1VT5UfGx1xQazqpKwA9F2SutuDktC_1IKW5CNSl2BLqU/edit?usp=drive_link) поддержки пакета "Astra Linux Domain Pro", тесты оформлены в классическом стиле (СЗИ "Блокхост-сеть");
 - [тестовый набор](https://docs.google.com/document/d/15BskOkz5SHVwYRDPvVQHibUNW-XtsW_HUTDiwDEg8c4/edit?usp=sharing) функционала "Блокхост-Сети" предоставления временного разрешения доступа к устройству, тесты оформлены в телеграфном стиле (СЗИ "Блокхост-сеть).
 
 **5. Баг репорты:**
