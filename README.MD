@@ -8,7 +8,8 @@
 
 **2. Чек листы:**
 
-- [чек-лист](https://docs.google.com/spreadsheets/d/1Mose_Af12ndIqAmybR-zHwyj7hM5_1tjZg29bJ6MBi4/edit?usp=sharing) тестирования личного кабинета пользователя ("Henderson").
+- [чек-лист](https://docs.google.com/spreadsheets/d/1Mose_Af12ndIqAmybR-zHwyj7hM5_1tjZg29bJ6MBi4/edit?usp=sharing) тестирования личного кабинета пользователя ("Henderson");
+- [чек-лист](https://docs.google.com/document/d/1S1sauNlLy376MdsimbWrmM53MXqHfdoCWWKwdqMUNOo/edit?usp=sharing) тестирования функционала блокировки сессии пользователя при извлечении из РС смарт-карты (ООО "Датаджайл").
 
 **3. Алгоритмы тестирования:**
 
@@ -16,14 +17,14 @@
 
 **4. Тестовые сценарии:**
 
-- [тестовый набор](https://docs.google.com/document/d/1VT5UfGx1xQazqpKwA9F2SutuDktC_1IKW5CNSl2BLqU/edit?usp=drive_link) поддержки пакета "Astra Linux Domain Pro", тесты оформлены в классическом стиле (СЗИ "Блокхост-сеть");
-- [тестовый набор](https://docs.google.com/document/d/15BskOkz5SHVwYRDPvVQHibUNW-XtsW_HUTDiwDEg8c4/edit?usp=sharing) функционала "Блокхост-Сети" предоставления временного разрешения доступа к устройству, тесты оформлены в телеграфном стиле (СЗИ "Блокхост-сеть).
+- [тестовый набор](https://docs.google.com/document/d/1VT5UfGx1xQazqpKwA9F2SutuDktC_1IKW5CNSl2BLqU/edit?usp=drive_link) поддержки пакета "Astra Linux Domain Pro", тесты оформлены в классическом стиле (СЗИ "Блокхост-сеть" "Датаджайл");
+- [тестовый набор](https://docs.google.com/document/d/15BskOkz5SHVwYRDPvVQHibUNW-XtsW_HUTDiwDEg8c4/edit?usp=sharing) функционала "Блокхост-Сети" предоставления временного разрешения доступа к устройству, тесты оформлены в телеграфном стиле ("Датаджайл").
 
 **5. Баг репорты:**
 
-- [отчет о дефекте](https://docs.google.com/document/d/1NWMcA_ZiVfc-aGCzIu6yss7ZSprueilIplzLoHS9tWs/edit?usp=sharing) модуля управления политиками (СЗИ "Блокхост-Сеть");
+- [отчет о дефекте](https://docs.google.com/document/d/1NWMcA_ZiVfc-aGCzIu6yss7ZSprueilIplzLoHS9tWs/edit?usp=sharing) модуля управления политиками СЗИ "Блокхост-Сеть" ("Датаджайл");
 - [отчет о дефекте](https://docs.google.com/document/d/17S2S5l9_FxxazWE_0OtK1yJuES3eJx85lDbyZCt3iJk/edit?usp=sharing) в модуле проверки заявок (системный интегратор "НВБС");
-- [отчет о дефектах](https://docs.google.com/spreadsheets/d/1k1yJUt46IkvY7svY53-G3xFOlTIVEWTvkxR3_lqCZLo/edit?usp=sharing) модуля управления работами("НВБС").
+- [отчет о дефектах](https://docs.google.com/spreadsheets/d/1k1yJUt46IkvY7svY53-G3xFOlTIVEWTvkxR3_lqCZLo/edit?usp=sharing) модуля управления работами ("НВБС").
 
 **6. Отчеты о тестировании:**
 
@@ -36,6 +37,10 @@
 - [модуль](https://docs.google.com/document/d/1_J0YbOIbQRsb3xE9EAnNmZz79XGuldprjhr1T5lapt8/edit?usp=sharing) расчета плановых показателей работы сотрудников("НВБС");
 - [регламент](https://docs.google.com/document/d/13NMv3tkDEiJx1Cvti0BYZWx_iVOiypljMHeBymHbmjk/edit?usp=sharing) ведения и использования базы знаний ("НВБС");
 
+**8. Confluence-статьи**
+
+- [инструкция](https://docs.google.com/document/d/1s0pGBAJpHOO9vWDX3p8Agzj9xJLlRkFtFDCfUsNyB1I/edit?usp=sharing) настройки Ankey SIEM для получения событий аудита БХС ("Датаджайл")
+
 ---
 
 ### ![](./assets/img/tool.png) Инструменты тестирования:
@@ -46,13 +51,15 @@
 
 **2. Тестирование веб API:**
 
-- [Google Chrome](https://docs.google.com/document/d/15CV4_Jp-hxA1ksGz1aMmhjwaUuSg4V-6yHDu8_RPewg/edit?usp=sharing);
-- [Postman](https://docs.google.com/document/d/1_qqPKteXFqq_s31mgEGG0VZ3OK8HWcZydE9415XyK0s/edit?usp=sharing).
+- [Google Chrome/DevTools](https://docs.google.com/document/d/15CV4_Jp-hxA1ksGz1aMmhjwaUuSg4V-6yHDu8_RPewg/edit?usp=sharing);
+- [Postman](https://docs.google.com/document/d/1_qqPKteXFqq_s31mgEGG0VZ3OK8HWcZydE9415XyK0s/edit?usp=sharing);
+- HTML, CSS, Bootstrap.
 
 **3. Тестирование БД:**
 
 - [PostgreSQL](./sql/postgresql.md);
 - [Jatoba](./sql/jatoba.md);
+- Informix/DB2;
 - [SQLite](./sql/sqlite.md);
 
 **4. Нагрузочное тестирование:**
@@ -77,12 +84,9 @@
 - [тесты](https://github.com/rtmwrk/jhw14/blob/main/src/test/java/ru/netology/web/CallbackTest.java);
 - [CI with Gradle](https://github.com/rtmwrk/jhw14/blob/main/.github/workflows/gradle.yml)
 
-Используемые инструменты:
+Инструменты:
 
-- Java/Gradle;
-- JUnit;
-- Selenium/Selenide;
-- CI/Github Actions.
+- Java/Gradle/Maven, JUnit, Selenium/Selenide, , Allure, CI/Github Actions.
 
 **2. Автотест формы заявки кредитной карты:**
 
@@ -90,12 +94,9 @@
 - [тесты](https://github.com/rtmwrk/jhw15/blob/main/src/test/java/ru/netology/web/RegistrationTest.java);
 - [CI with Gradle](https://github.com/rtmwrk/jhw15/blob/main/.github/workflows/gradle.yml)
 
-Используемые инструменты:
+Инструменты:
 
-- Java/Gradle;
-- JUnit;
-- Selenide;
-- CI/Github Actions.
+- Java/Gradle, JUnit, Selenium/Selenide, CI/Github Actions.
 
 ---
 
@@ -111,10 +112,9 @@
 - [код](https://github.com/rtmwrk/portfolio/blob/main/js/library/task.js);
 - [тесты](https://rtmwrk.github.io/portfolio/js/library/index.html).
 
-Используемые инструменты:
+Инструменты:
 
-- JavaScripts;
-- Jasmine.
+- JavaScripts, Jest, Jasmine, Playwright, Puppeteer.
 
 ---
 
@@ -132,10 +132,9 @@
 
 - [код](./sql/sqlite.md).
 
-Используемые инструменты:
+Инструменты:
 
-- SQLite;
-- DBeaver.
+- PostgreSQL, Jatoba, SQLite, DBeaver, SQLiteStudio.
 
 ---
 
